@@ -5,12 +5,12 @@ using UnityEngine;
 
 public class revisao : MonoBehaviour
 {
-    [Header("")]
+    [Header("alagoaas")]
     public float valor1;
     public float valor2;
     public float soma;
 
-    [Header("")]
+    [Header("Teste")]
     public int num1;
     public int num2;
     public int num3;
@@ -215,4 +215,5 @@ public class revisao : MonoBehaviour
     {
 
     }
+
 }
